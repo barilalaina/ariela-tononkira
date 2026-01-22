@@ -4,6 +4,7 @@ const STATIC_ASSETS = [
   'style.css',
   'script.js',
   'hira.json',
+  'hira.html',
   'manifest.json'
 ];
 
