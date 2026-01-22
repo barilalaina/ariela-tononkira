@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <title>Ariela tononkira</title>
+    <!-- Lien vers le manifest -->
+    <link rel="manifest" href="manifest.json">
+    <!-- Couleur de la barre d’adresse sur mobile -->
+    <meta name="theme-color" content="#2196f3">
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="theme-color" content="#2c3e50" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#1a1a1a" media="(prefers-color-scheme: dark)">
+  </head>
+  <body
+    <h1>Ariela tononkira</h1>
+    <div class="search-container">
+      <input type="text" id="search-input" placeholder="Tadiavo ny hira..." autocomplete="off">
+    </div>
+    <div id="content-container"></div>
+    <script src="script.js"></script>
+    <script>
+      // Enregistrement du service worker
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('sw.js')
+          .then(reg => console.log('Service Worker enregistré', reg))
+          .catch(err => console.error('Erreur Service Worker', err));
+      }
+    </script>
+  </body>
+</html>

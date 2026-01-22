@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="mg">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tononkira</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav><a href="index.html">← Miverina</a></nav>
+
+<div class="font-controls">
+    <button onclick="changeFontSize(-2)">A-</button>
+    <button onclick="changeFontSize(2)">A+</button>
+</div>
+
+<div class="song-content">
+    <h1 id="song-title">Mandray...</h1>
+    <pre id="song-lyrics">Miandry ny tononkira...</pre>
+</div>
+
+<script>
+    // --- Code existant pour charger la chanson ---
+    async function loadSong() {
+        const params = new URLSearchParams(window.location.search);
+        const songId = params.get('id');
+        const response = await fetch('hira.json');
+        const songs = await response.json();
+        const song = songs.find(s => s.id === songId);
+
+        if (song) {
+            document.getElementById('song-title').innerText = song.hira;
+            document.getElementById('song-lyrics').innerText = song.tononkira;
+            document.title = song.hira;
+        }
+    }
+    loadSong();
+
+    // --- Nouveau code pour la taille de la police ---
+    function changeFontSize(delta) {
+        const lyrics = document.getElementById('song-lyrics');
+        // Récupère la taille actuelle (ou 18 par défaut)
+        const currentSize = parseFloat(window.getComputedStyle(lyrics).fontSize);
+        const newSize = currentSize + delta;
+        
+        // Limites pour éviter que ce soit trop petit ou trop grand
+        if (newSize >= 12 && newSize <= 40) {
+            lyrics.style.fontSize = newSize + 'px';
+            // Optionnel : Sauvegarder la préférence de l'utilisateur
+            localStorage.setItem('preferred-font-size', newSize);
+        }
+    }
+
+    // Appliquer la taille sauvegardée au chargement
+    window.onload = () => {
+        const savedSize = localStorage.getItem('preferred-font-size');
+        if (savedSize) {
+            document.getElementById('song-lyrics').style.fontSize = savedSize + 'px';
+        }
+    };
+</script>
+
+    
+    <!-- <div class="song-content">
+        <h1 id="song-title">Mandray...</h1>
+        <pre id="song-lyrics">Miandry ny tononkira...</pre>
+    </div> -->
+
+    <script>
+        async function loadSong() {
+            // On récupère l'ID dans l'URL (ex: hira.html?id=abra)
+            const params = new URLSearchParams(window.location.search);
+            const songId = params.get('id');
+
+            const response = await fetch('hira.json');
+            const songs = await response.json();
+            
+            const song = songs.find(s => s.id === songId);
+
+            if (song) {
+                document.getElementById('song-title').innerText = song.hira;
+                document.getElementById('song-lyrics').innerText = song.tononkira;
+                document.title = song.hira;
+            }
+        }
+        loadSong();
+    </script>
+
+    
+</body>
+</html>
