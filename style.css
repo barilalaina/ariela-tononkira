@@ -107,6 +107,12 @@ nav a {
     to { opacity: 1; transform: translateY(0); }
 }
 
+.page-title {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 1.5rem;
+}
+
 .song-content {
     padding: 20px;
     max-width: 600px;
@@ -151,4 +157,11 @@ nav a {
 #song-lyrics {
     font-size: 18px; /* Taille par défaut */
     transition: font-size 0.2s ease; /* Animation fluide quand on change la taille */
+}
+
+.hira-list-item {
+    border-bottom: 1px solid var(--accent-color);
+    padding-bottom: 8px;
+    margin-bottom: 8px;
+    font-family: inherit;
 }

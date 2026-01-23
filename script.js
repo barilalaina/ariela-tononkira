@@ -18,7 +18,7 @@ function renderSongs(songs) {
     let htmlString = '';
     songs.forEach(item => {
         htmlString += `
-        <div>
+        <div class="hira-list-item">
             <a href="hira.html?id=${item.id}">${item.hira}</a>
         </div>
         `;
