@@ -17,6 +17,7 @@
 <div class="song-content">
     <h1 id="song-title">Mandray...</h1>
     <pre id="song-lyrics">Miandry ny tononkira...</pre>
+    <p id="song-author">Ny mpanoratra</p>
 </div>
 
 <script>
@@ -31,6 +32,7 @@
         if (song) {
             document.getElementById('song-title').innerText = song.hira;
             document.getElementById('song-lyrics').innerText = song.tononkira;
+            document.getElementById('song-author').innerText = song.mpanoratra;
             document.title = song.hira;
         }
     }
@@ -59,33 +61,6 @@
         }
     };
 </script>
-
-    
-    <!-- <div class="song-content">
-        <h1 id="song-title">Mandray...</h1>
-        <pre id="song-lyrics">Miandry ny tononkira...</pre>
-    </div> -->
-
-    <script>
-        async function loadSong() {
-            // On récupère l'ID dans l'URL (ex: hira.html?id=abra)
-            const params = new URLSearchParams(window.location.search);
-            const songId = params.get('id');
-
-            const response = await fetch('hira.json');
-            const songs = await response.json();
-            
-            const song = songs.find(s => s.id === songId);
-
-            if (song) {
-                document.getElementById('song-title').innerText = song.hira;
-                document.getElementById('song-lyrics').innerText = song.tononkira;
-                document.title = song.hira;
-            }
-        }
-        loadSong();
-    </script>
-
     
 </body>
 </html>
