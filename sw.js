@@ -1,4 +1,4 @@
-const CACHE_NAME = 'ariela-v2'; // Changez le nom pour forcer la mise à jour
+const CACHE_NAME = 'ariela-v2.1'; // Changez le nom pour forcer la mise à jour
 const STATIC_ASSETS = [
   'index.html',
   'style.css',
