@@ -35,6 +35,9 @@ body {
 #search-input {
     background-color: var(--search-bg);
     color: var(--text-color);
+    padding: 1rem ;
+    border-radius: 8px;
+    margin-left: 10px;
 }
 
 /* Pour les pages de chansons (song1.html, etc.) */
@@ -68,7 +71,7 @@ h1 {
 
 #content-container a, nav a {
     display: block;
-    background: white;
+    background: rgb(114, 19, 19);
     padding: 15px;
     border-radius: 8px;
     text-decoration: none;
@@ -80,7 +83,7 @@ h1 {
 
 /* Effet au clic (feedback tactile) */
 #content-container a:active, nav a:active {
-    background-color: #e9ecef;
+    background-color: #881212;
     transform: scale(0.98);
 }
 
@@ -164,4 +167,44 @@ nav a {
     padding-bottom: 8px;
     margin-bottom: 8px;
     font-family: inherit;
+}
+.pagination {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  justify-content: center;
+  padding: 16px 0;
+  flex-wrap: wrap;
+}
+
+.page-btn {
+  border: 1px solid #ccc;
+  background: #fff;
+  color: #333;
+  padding: 6px 10px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.page-btn:hover { background: #f4f4f4; }
+.page-btn.active {
+  background: #2196f3;
+  border-color: #2196f3;
+  color: #fff;
+  font-weight: 600;
+}
+.page-btn.disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.ellipsis {
+  padding: 0 6px;
+  color: #888;
+}
+
+.page-status {
+  margin-left: 8px;
+  color: #555;
+  font-size: 0.9rem;
 }

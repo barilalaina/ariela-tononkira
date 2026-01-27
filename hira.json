@@ -1,26 +1,146 @@
 [
-  {
-    "id": "abra",
-    "hira": "Abra",
-    "tononkira": "Abra cadabra\nIty ny hira voalohany...\nTononkira tsotra be.",
-    "mpanoratra":"Rajarisonarivo Honoré"
-  },
-  {
-    "id": "cadabra",
-    "hira": "Cadabra",
-    "tononkira": "Ity indray ny hira faharoa\nTononkira hafa indray ity.",
-    "mpanoratra":"Rajarisonarivo Honoré"
-  },
-  {
-    "id": "Ravoravo",
-    "hira": "Ao aminao Jesoa",
-    "tononkira": "Ravoravo e ny foko fa Jesô no aroko\nRavoravo ny fanahy fa Jesô no aro ho ahy\nIzy irery ihany no ampinga fiarovako\nToky ho ahy i Jesô.\n\nRef:\nAo aminao Jesô\nAo aminao Jesô no misy ny soa\nAo aminao Jesô matoky ny fo\nAo aminao Jesô\nAo aminao Jesô no mamy tokoa\nJesô! inty aho Jesô\n\nTsy miafina aminao Jesô ny fiainako\nNoho ny ratsy izay natao izaho de tsy mendrika\nIndro hamasino ho anao ny fo tsy madio\nNy diako ahitsio\n\nRef:\n\nRaiso ho fanananao Jesô ny tenako\nFa ianao irery ihany Jesô no avotro\nIza indray moa no atenaik afa-tsy Ianao\n'Nty aho raiso ho anao"    ,
-    "mpanoratra":"Rajarisonarivo Honoré"
-  },
-  {
-    "id": "Ombaraiso392",
-    "hira": "O mba raiso izao",
-    "tononkira": "1. O, mba raiso izao,\nMisy lovanao ao,\nIndro! Jeso miandry anao!\nFa ny helokao be\nDia navelany e,\nKa fiainana omeny anao;\nNovidiny hianao,\nKa ekeo hatrizao\nIzay omen’i Jesosy anao.\nO, mba raiso izao,\nMisy lovanao ao,\nIndro! Jeso miandry anao!\n\n2. Moa hadinonao va\nFa ny olo-mandà\nHo tra-nenina rahatrizay?\nIzay ataonao aty\nHotsaraina ary\nKa tsy azo ovana indray.\nNy Mpamonjy anao\nNo hatony izao,\nAry Izy hihaino anao.\nMoa hadinonao va\nFa ny olo-mandà\nHo tra-nenina rahatrizay?\n\n3. Izao tontolo izao\nDia mamitaka anao,\nKa afoizo fandrao manindao.\nHe, Jesosy nandao\nIzao tontolo izao\nAry izy miantso anao.\nIzy tonga indray\nAo an-dapan’ny Ray,\nKa ho velona mandrakizay.\nIzao tontolo izao\nDia mamitaka anao,\nKa afoizo fandrao manindao."    ,
-    "mpanoratra":"FFPM/Rajarisonarivo Honoré"
-  }
+   {
+      "id":"#001",
+      "hira":"AMPIDINO ETO ANIO",
+      "tononkira":"1°\nAmpidino eto anio ny herinao Ray o!\nHenoy ny vavakay avy ao am-po\nTrotroinay Aminao ka mba jereo\n‘Reto zanakao\n\nRef :\nInoanay [Henoy ny vavakay (1er voix)]\nfa hitarika azy Ianao\nN’aiza n’aiza haleha hiambina azy Ianao\n[ka valio ‘zahay (1er voix)]\nSatria fantatray fa tia azy Ianao\nKa ambany elatrao no hialofany\nRaha sendra ny manjo [ady sarotra (2e voix)]\n\n2°\nIrinay ny hasoavanao Ray o!\nTsy hisarak’aminay n’aiza haleha\nFa hamirapiratra ho hitany\nFa tia azy Ianao\n\n3°\nAza avela ho ‘rery ‘reo Ray o !\nAza hilaozanao fa efa Anao\nNy asa ataony anie mba hombanao\nHiderany Anao,\n",
+      "mpanoratra":"AUTEUR 1"
+   },
+   {
+      "id":"#002",
+      "hira":"FENO TOKY NY FANAHY",
+      "tononkira":"Feno toky ny fanahy\ntatatoetra eo Aminao\nHe tsy misy mampanahy\nfa ianao dia tsy mandao\n\nInona no mampahory\nraha ny fo no lapanao\nFeno toky ny fanahy\ntafatoetra eo Aminao\n\nTsy mba diso zava-tsoa\nizay mitambatra Aminao\nTena tretrika tokoa\n‘reo izay arovanao\n\nAo ny rivotra mahery,\nfitsapana mahamay\nNefa tsy miady irery\nfa Ianao no andrinay\n\nTompo tsara o! vangio\nny fanahy mitady Anao\nTehirizo ho madio\nlalandava ho anao\n\nRaisonao ny saotra,\ndera entinay manompo Anao\nKa ny vavaka sy hira\n‘ndray ankinina Aminao\n",
+      "mpanoratra":"AUTEUR 2"
+   },
+   {
+      "id":"#003",
+      "hira":"ILAY KRISTY",
+      "tononkira":"Dia mazava be ny lanitra tao Betlehema\nNdreo anjely tena maro be sy sesehena\nVoninahitra ho an’Andriamanitra Avo\nFiadanana ho an’ny olona efa lavo\nFa tonga Ilay Mesia, Ilay Kristy Jesoa be fitia\n\nDia niainga ireo mpiandry ondry tao an-tsaha\nTsy nangataka andro fa dia lasana nizaha\nHo afaka tokoa ny ahiahy nampanahy\nFaly re ny fo sy ny fanahy, he ravo ny fanahy\nFa tonga Ilay Mesia, Ilay Kristy Jesoa be fitia\n\nDia nizotra koa ‘reo magy telo olon-kendry\nMba hahita maso marina ilay Voatendry\nHe, natolony Azy re ny hasina sy laza\nFoiny an-tsitrapo ireo fananany mba ho haja\nFa tonga Ilay Mesia, Ilay Kristy Jesoa be fitia\n\nAsandrato re ankehitrio ny hira soa\nMba hanakoako eran-tany mafy koa\nVoninahitra ho an’Andriamanitra Avo\nFanavotana e, ho an’ny efa lavo\nFa tonga Ilay Mesia, Ilay Kristy Jesoa be fitia\n",
+      "mpanoratra":"AUTEUR 3"
+   },
+   {
+      "id":"#004",
+      "hira":"IRIKO IANAO RY NOELY",
+      "tononkira":"Iriko ianao ry Noely amin’ity indray mandeha ity\n(Ianao ry Noely,ianao ry Noely, ilazako faniriana amin’ity indray mandeha ity)\nHo Noely hafa kely noho izay fahitako tety\n(Ka izao no faniriko enga anie ianao ho hafa nohon’izay fahitako,fahitako tety)\n\nSolo1:\nTsy hisy intsony ny mahantra\nKanefa maro ny be harena\nNy voin’ny hafa hatao fiantra\nNy hafa anie ho toy ny tena\n\nChoeur1:\nTsy hisy intsony ny mahantra\nNefa maro ny manan-karena\nVoin-kavan-fiantra\nNy hafa anie ho toy ny tena\n\nSolo2:\nHitsahatra eo ny vono namana\nNoho ny nodiny izao sy izao\nSamy liana,liam-piadanana\nHanorina fianam-baovao\n\nChoeur2:\nO! Avela famonoana\nSatria mavo na mainty na mena\nSamy liana,samy liana\nFiadanam-piainam-baovao\n\nSolo3:\nHifarana eo ny ranomaso\nNalatsak’ady etsy sy eroa\nHotapitr’eo koa ny andraso andraso\nHiaina,hiainan-tsambatra avokoa\n\nChoeur3:\nHofafana ranomaso\nNoho ny ady,ny ady etsy sy eroa\nTapitr’eo ny andraso\nHiaina,hiainan-tsambatra avokoa\n",
+      "mpanoratra":"AUTEUR 4"
+   },
+   {
+      "id":"#005",
+      "hira":"LEHIBE NY FAHATOKIANA",
+      "tononkira":"Andriamanitra ô, Ray be fiantra\nHe, lehibe tokoa ny antranao\nTsy misy vonjy re raha lavitra Anao\nNy famindram-ponao mandrakizay\n\nTsy manam-paharoa ny famindram-ponao\nTsy manampetra ny fitiavanao\nHianao Jehovah ô no antenaiko\nAnjarako Ianao mandrakizay\n\nNy fahavaratra sy lohataona\nNy masoandro sy ny volana\nIzao rehetra izao dia manambara\nNy famindram-ponao mandrakizay\n\nFamelan-keloka sy fitahiana\nNo mampifaly ny fanahiko\nFanantenana sy hery vaovao re\nAtafinao ny fo Jehovah ô!\n",
+      "mpanoratra":"AUTEUR 5"
+   },
+   {
+      "id":"#006",
+      "hira":"MIERITRERETA",
+      "tononkira":"Mieritrereta, mieritrereta ry manampanahy (Mieritrereta)\nF’indro naterak’indray ho Anao lay Mpamonji Tsitoha ô!\nAza dia mihevitra fa mbola maro ny andronao ety (Mieritrereta)\nSao tratra aoriana fa diso anjara ka hanenenanao\n\nFa fiadanana tsy misy fetra nomena ho Anao\nZao ve no mba hohavalinao zany mba mieritrereta ô!\n\nFa fitiavana feno dia feno no atolotro ho anao (Meiritrereta)\nNefa ny fomba fiainana zany toa mampalahelo ô!\nNy fialonana feno korontana indro manjaka (Mieritrereta)\nBe rehareha zato ianao nefa indrisy fa vovoka ihany\n\nMieritrereta mieritrereta ry manam-panahy (Mieritrereta)\nAza hadinoina fa mbola hoadinina ianao any aoriana e!\nZato fihetsika mampahonena asehonao e! (Mieritrereta)\nBe rehareha zato ianao nefa indrisy fa vovoka ihany\n",
+      "mpanoratra":"AUTEUR 6"
+   },
+   {
+      "id":"#007",
+      "hira":"NATOLOTRA HO AVOTRAY",
+      "tononkira":"Ny ra nilatsaka ho avotray ry Tompo ô\nTsy mendrika ho anay vefa dia nafoinao\nHo fanavotana rero farahidiny\nNy ra nilatsaka tonga hivelomanay\n\nIza intsony re no sahy hirehareha\nRaha nahita ilay hazo nijalianao\nNy hazonao Jeso no horaisiko hatrizao\nAry ho hatrizay ho fialofako\n",
+      "mpanoratra":"AUTEUR 7"
+   },
+   {
+      "id":"#008",
+      "hira":"NY TANY IZAY DIAVINAY",
+      "tononkira":"Ny tany izay diavinay Jesosy ô\nDia tany maha solafaka tsy mba hay\nKa na iza re mbola nofo sy rà\nTsy maintsy ho solofaka\n\nÔ ! Ô ! Mba vonjeo amin'ny sandrinao\nHijoroako ho vavolombelonao\nHiadiako ny ady tsaran'ny finoana\nHananako fiainana mandrakizay\n\nNy tany izay diavinay Jesosy ô\nManeho famoizam-po satria hitanao\nFa manjàka ao ny haratsiana izay\nTsy hay tanisaina indray\n\nÔ ! Ô ! Mba vonjeo amin'ny sandrinao\nHijoroako ho vavolombelonao\nHiadiako ny ady tsaran'ny finoana\nHananako fiainana mandrakizay\n",
+      "mpanoratra":"AUTEUR 8"
+   },
+   {
+      "id":"#009",
+      "hira":"OMEO VONINAHITRA",
+      "tononkira":"Omeo voninahitra\nNy Ray Tsitoha\nMitoria, miderà\nAry mankalaza (Ankalazao)\nNy anarany masina, derao\nOmeo voninahitra\nFa Tomponao\nKa hobio sy derao\nAry ankalazao (Ankalazao)\nNy anarany masina\n\nOmeo voninahittra\nNy Tomponao\nTomponao (x2)\nNy anarany ankalazao (x2)\nKa derao sy hobio\nNy anarany masina\n",
+      "mpanoratra":"AUTEUR 9"
+   },
+   {
+      "id":"#010",
+      "hira":"TIAVO HAJAO",
+      "tononkira":"Efa mahantra an-tany ianao\nNo mbola tsy andova ny lanitra ve?\nTsy an-tany, tsy an-danitra hatramin’izao\nMinia tsy manaja an’Andriamanitra re!\nAza atao hoe tsy mba tian’Andriamanitra ianao satria ambany\nIanao eny, ianao no anton’izany\nSitrkao ny hotahiany nefa lavinao izay mba handidiany\nKoa tiavo, hajao ny Tomponao\n\nEfa mpanjakan’ ny tany ianao\nKa tsy mila izay lova any an-danitra ve?\nMatoky fa manankery tsy mandao\nMinia tsy manaja an’Andriamanitra re!\nMba tsarovy fa vahiny mbola hody sady hotsaraina ianao\nNa tsara eny na ratsy izay natao\nRaha sitrakao ny handova, aza lavinao izay mmba handidiany\nKoa tiavo, hajao ny Tomponao\n",
+      "mpanoratra":"AUTEUR 10"
+   },
+   {
+      "id":"#011",
+      "hira":"O MBA RAISO IZAO",
+      "tononkira":"1. O, mba raiso izao,\nMisy lovanao ao,\nIndro! Jeso miandry anao!\nFa ny helokao be\nDia navelany e,\nKa fiainana omeny anao;\nNovidiny hianao,\nKa ekeo hatrizao\nIzay omen’i Jesosy anao.\nO, mba raiso izao,\nMisy lovanao ao,\nIndro! Jeso miandry anao!\n\n2. Moa hadinonao va\nFa ny olo-mandà\nHo tra-nenina rahatrizay?\nIzay ataonao aty\nHotsaraina ary\nKa tsy azo ovana indray.\nNy Mpamonjy anao\nNo hatony izao,\nAry Izy hihaino anao.\nMoa hadinonao va\nFa ny olo-mandà\nHo tra-nenina rahatrizay?\n\n3. Izao tontolo izao\nDia mamitaka anao,\nKa afoizo fandrao manindao.\nHe, Jesosy nandao\nIzao tontolo izao\nAry izy miantso anao.\nIzy tonga indray\nAo an-dapan’ny Ray,\nKa ho velona mandrakizay.\nIzao tontolo izao\nDia mamitaka anao,\nKa afoizo fandrao manindao.",
+      "mpanoratra":"AUTEUR 11"
+   },
+   {
+      "id":"#012",
+      "hira":"AO AMINAO JESO",
+      "tononkira":"Ravoravo e ny foko fa Jesô no aroko\nRavoravo ny fanahy fa Jesô no aro ho ahy\nIzy irery ihany no ampinga fiarovako\nToky ho ahy i Jesô.\n\nRef:\nAo aminao Jesô\nAo aminao Jesô no misy ny soa\nAo aminao Jesô matoky ny fo\nAo aminao Jesô\nAo aminao Jesô no mamy tokoa\nJesô! inty aho Jesô\n\nTsy miafina aminao Jesô ny fiainako\nNoho ny ratsy izay natao izaho de tsy mendrika\nIndro hamasino ho anao ny fo tsy madio\nNy diako ahitsio\n\nRef:\n\nRaiso ho fanananao Jesô ny tenako\nFa ianao irery ihany Jesô no avotro\nIza indray moa no atenaik afa-tsy Ianao\n'Nty aho raiso ho anao",
+      "mpanoratra":"AUTEUR 12"
+   },
+   {
+      "id":"#013",
+      "hira":"AMPIDINO ETO ANIO",
+      "tononkira":"1°\nAmpidino eto anio ny herinao Ray o!\nHenoy ny vavakay avy ao am-po\nTrotroinay Aminao ka mba jereo\n‘Reto zanakao\n\nRef :\nInoanay [Henoy ny vavakay (1er voix)]\nfa hitarika azy Ianao\nN’aiza n’aiza haleha hiambina azy Ianao\n[ka valio ‘zahay (1er voix)]\nSatria fantatray fa tia azy Ianao\nKa ambany elatrao no hialofany\nRaha sendra ny manjo [ady sarotra (2e voix)]\n\n2°\nIrinay ny hasoavanao Ray o!\nTsy hisarak’aminay n’aiza haleha\nFa hamirapiratra ho hitany\nFa tia azy Ianao\n\n3°\nAza avela ho ‘rery ‘reo Ray o !\nAza hilaozanao fa efa Anao\nNy asa ataony anie mba hombanao\nHiderany Anao,\n",
+      "mpanoratra":"AUTEUR 1"
+   },
+   {
+      "id":"#014",
+      "hira":"FENO TOKY NY FANAHY",
+      "tononkira":"Feno toky ny fanahy\ntatatoetra eo Aminao\nHe tsy misy mampanahy\nfa ianao dia tsy mandao\n\nInona no mampahory\nraha ny fo no lapanao\nFeno toky ny fanahy\ntafatoetra eo Aminao\n\nTsy mba diso zava-tsoa\nizay mitambatra Aminao\nTena tretrika tokoa\n‘reo izay arovanao\n\nAo ny rivotra mahery,\nfitsapana mahamay\nNefa tsy miady irery\nfa Ianao no andrinay\n\nTompo tsara o! vangio\nny fanahy mitady Anao\nTehirizo ho madio\nlalandava ho anao\n\nRaisonao ny saotra,\ndera entinay manompo Anao\nKa ny vavaka sy hira\n‘ndray ankinina Aminao\n",
+      "mpanoratra":"AUTEUR 2"
+   },
+   {
+      "id":"#015",
+      "hira":"ILAY KRISTY",
+      "tononkira":"Dia mazava be ny lanitra tao Betlehema\nNdreo anjely tena maro be sy sesehena\nVoninahitra ho an’Andriamanitra Avo\nFiadanana ho an’ny olona efa lavo\nFa tonga Ilay Mesia, Ilay Kristy Jesoa be fitia\n\nDia niainga ireo mpiandry ondry tao an-tsaha\nTsy nangataka andro fa dia lasana nizaha\nHo afaka tokoa ny ahiahy nampanahy\nFaly re ny fo sy ny fanahy, he ravo ny fanahy\nFa tonga Ilay Mesia, Ilay Kristy Jesoa be fitia\n\nDia nizotra koa ‘reo magy telo olon-kendry\nMba hahita maso marina ilay Voatendry\nHe, natolony Azy re ny hasina sy laza\nFoiny an-tsitrapo ireo fananany mba ho haja\nFa tonga Ilay Mesia, Ilay Kristy Jesoa be fitia\n\nAsandrato re ankehitrio ny hira soa\nMba hanakoako eran-tany mafy koa\nVoninahitra ho an’Andriamanitra Avo\nFanavotana e, ho an’ny efa lavo\nFa tonga Ilay Mesia, Ilay Kristy Jesoa be fitia\n",
+      "mpanoratra":"AUTEUR 3"
+   },
+   {
+      "id":"#016",
+      "hira":"IRIKO IANAO RY NOELY",
+      "tononkira":"Iriko ianao ry Noely amin’ity indray mandeha ity\n(Ianao ry Noely,ianao ry Noely, ilazako faniriana amin’ity indray mandeha ity)\nHo Noely hafa kely noho izay fahitako tety\n(Ka izao no faniriko enga anie ianao ho hafa nohon’izay fahitako,fahitako tety)\n\nSolo1:\nTsy hisy intsony ny mahantra\nKanefa maro ny be harena\nNy voin’ny hafa hatao fiantra\nNy hafa anie ho toy ny tena\n\nChoeur1:\nTsy hisy intsony ny mahantra\nNefa maro ny manan-karena\nVoin-kavan-fiantra\nNy hafa anie ho toy ny tena\n\nSolo2:\nHitsahatra eo ny vono namana\nNoho ny nodiny izao sy izao\nSamy liana,liam-piadanana\nHanorina fianam-baovao\n\nChoeur2:\nO! Avela famonoana\nSatria mavo na mainty na mena\nSamy liana,samy liana\nFiadanam-piainam-baovao\n\nSolo3:\nHifarana eo ny ranomaso\nNalatsak’ady etsy sy eroa\nHotapitr’eo koa ny andraso andraso\nHiaina,hiainan-tsambatra avokoa\n\nChoeur3:\nHofafana ranomaso\nNoho ny ady,ny ady etsy sy eroa\nTapitr’eo ny andraso\nHiaina,hiainan-tsambatra avokoa\n",
+      "mpanoratra":"AUTEUR 4"
+   },
+   {
+      "id":"#017",
+      "hira":"LEHIBE NY FAHATOKIANA",
+      "tononkira":"Andriamanitra ô, Ray be fiantra\nHe, lehibe tokoa ny antranao\nTsy misy vonjy re raha lavitra Anao\nNy famindram-ponao mandrakizay\n\nTsy manam-paharoa ny famindram-ponao\nTsy manampetra ny fitiavanao\nHianao Jehovah ô no antenaiko\nAnjarako Ianao mandrakizay\n\nNy fahavaratra sy lohataona\nNy masoandro sy ny volana\nIzao rehetra izao dia manambara\nNy famindram-ponao mandrakizay\n\nFamelan-keloka sy fitahiana\nNo mampifaly ny fanahiko\nFanantenana sy hery vaovao re\nAtafinao ny fo Jehovah ô!\n",
+      "mpanoratra":"AUTEUR 5"
+   },
+   {
+      "id":"#018",
+      "hira":"MIERITRERETA",
+      "tononkira":"Mieritrereta, mieritrereta ry manampanahy (Mieritrereta)\nF’indro naterak’indray ho Anao lay Mpamonji Tsitoha ô!\nAza dia mihevitra fa mbola maro ny andronao ety (Mieritrereta)\nSao tratra aoriana fa diso anjara ka hanenenanao\n\nFa fiadanana tsy misy fetra nomena ho Anao\nZao ve no mba hohavalinao zany mba mieritrereta ô!\n\nFa fitiavana feno dia feno no atolotro ho anao (Meiritrereta)\nNefa ny fomba fiainana zany toa mampalahelo ô!\nNy fialonana feno korontana indro manjaka (Mieritrereta)\nBe rehareha zato ianao nefa indrisy fa vovoka ihany\n\nMieritrereta mieritrereta ry manam-panahy (Mieritrereta)\nAza hadinoina fa mbola hoadinina ianao any aoriana e!\nZato fihetsika mampahonena asehonao e! (Mieritrereta)\nBe rehareha zato ianao nefa indrisy fa vovoka ihany\n",
+      "mpanoratra":"AUTEUR 6"
+   },
+   {
+      "id":"#019",
+      "hira":"NATOLOTRA HO AVOTRAY",
+      "tononkira":"Ny ra nilatsaka ho avotray ry Tompo ô\nTsy mendrika ho anay vefa dia nafoinao\nHo fanavotana rero farahidiny\nNy ra nilatsaka tonga hivelomanay\n\nIza intsony re no sahy hirehareha\nRaha nahita ilay hazo nijalianao\nNy hazonao Jeso no horaisiko hatrizao\nAry ho hatrizay ho fialofako\n",
+      "mpanoratra":"AUTEUR 7"
+   },
+   {
+      "id":"#020",
+      "hira":"NY TANY IZAY DIAVINAY",
+      "tononkira":"Ny tany izay diavinay Jesosy ô\nDia tany maha solafaka tsy mba hay\nKa na iza re mbola nofo sy rà\nTsy maintsy ho solofaka\n\nÔ ! Ô ! Mba vonjeo amin'ny sandrinao\nHijoroako ho vavolombelonao\nHiadiako ny ady tsaran'ny finoana\nHananako fiainana mandrakizay\n\nNy tany izay diavinay Jesosy ô\nManeho famoizam-po satria hitanao\nFa manjàka ao ny haratsiana izay\nTsy hay tanisaina indray\n\nÔ ! Ô ! Mba vonjeo amin'ny sandrinao\nHijoroako ho vavolombelonao\nHiadiako ny ady tsaran'ny finoana\nHananako fiainana mandrakizay\n",
+      "mpanoratra":"AUTEUR 8"
+   },
+   {
+      "id":"#021",
+      "hira":"OMEO VONINAHITRA",
+      "tononkira":"Omeo voninahitra\nNy Ray Tsitoha\nMitoria, miderà\nAry mankalaza (Ankalazao)\nNy anarany masina, derao\nOmeo voninahitra\nFa Tomponao\nKa hobio sy derao\nAry ankalazao (Ankalazao)\nNy anarany masina\n\nOmeo voninahittra\nNy Tomponao\nTomponao (x2)\nNy anarany ankalazao (x2)\nKa derao sy hobio\nNy anarany masina\n",
+      "mpanoratra":"AUTEUR 9"
+   },
+   {
+      "id":"#022",
+      "hira":"TIAVO HAJAO",
+      "tononkira":"Efa mahantra an-tany ianao\nNo mbola tsy andova ny lanitra ve?\nTsy an-tany, tsy an-danitra hatramin’izao\nMinia tsy manaja an’Andriamanitra re!\nAza atao hoe tsy mba tian’Andriamanitra ianao satria ambany\nIanao eny, ianao no anton’izany\nSitrkao ny hotahiany nefa lavinao izay mba handidiany\nKoa tiavo, hajao ny Tomponao\n\nEfa mpanjakan’ ny tany ianao\nKa tsy mila izay lova any an-danitra ve?\nMatoky fa manankery tsy mandao\nMinia tsy manaja an’Andriamanitra re!\nMba tsarovy fa vahiny mbola hody sady hotsaraina ianao\nNa tsara eny na ratsy izay natao\nRaha sitrakao ny handova, aza lavinao izay mmba handidiany\nKoa tiavo, hajao ny Tomponao\n",
+      "mpanoratra":"AUTEUR 10"
+   },
+   {
+      "id":"#023",
+      "hira":"O MBA RAISO IZAO",
+      "tononkira":"1. O, mba raiso izao,\nMisy lovanao ao,\nIndro! Jeso miandry anao!\nFa ny helokao be\nDia navelany e,\nKa fiainana omeny anao;\nNovidiny hianao,\nKa ekeo hatrizao\nIzay omen’i Jesosy anao.\nO, mba raiso izao,\nMisy lovanao ao,\nIndro! Jeso miandry anao!\n\n2. Moa hadinonao va\nFa ny olo-mandà\nHo tra-nenina rahatrizay?\nIzay ataonao aty\nHotsaraina ary\nKa tsy azo ovana indray.\nNy Mpamonjy anao\nNo hatony izao,\nAry Izy hihaino anao.\nMoa hadinonao va\nFa ny olo-mandà\nHo tra-nenina rahatrizay?\n\n3. Izao tontolo izao\nDia mamitaka anao,\nKa afoizo fandrao manindao.\nHe, Jesosy nandao\nIzao tontolo izao\nAry izy miantso anao.\nIzy tonga indray\nAo an-dapan’ny Ray,\nKa ho velona mandrakizay.\nIzao tontolo izao\nDia mamitaka anao,\nKa afoizo fandrao manindao.",
+      "mpanoratra":"AUTEUR 11"
+   },
+   {
+      "id":"#024",
+      "hira":"AO AMINAO JESO",
+      "tononkira":"Ravoravo e ny foko fa Jesô no aroko\nRavoravo ny fanahy fa Jesô no aro ho ahy\nIzy irery ihany no ampinga fiarovako\nToky ho ahy i Jesô.\n\nRef:\nAo aminao Jesô\nAo aminao Jesô no misy ny soa\nAo aminao Jesô matoky ny fo\nAo aminao Jesô\nAo aminao Jesô no mamy tokoa\nJesô! inty aho Jesô\n\nTsy miafina aminao Jesô ny fiainako\nNoho ny ratsy izay natao izaho de tsy mendrika\nIndro hamasino ho anao ny fo tsy madio\nNy diako ahitsio\n\nRef:\n\nRaiso ho fanananao Jesô ny tenako\nFa ianao irery ihany Jesô no avotro\nIza indray moa no atenaik afa-tsy Ianao\n'Nty aho raiso ho anao",
+      "mpanoratra":"AUTEUR 12"
+   }
 ]
